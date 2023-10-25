@@ -101,6 +101,21 @@ $(function () {
             bookName: "Atlas Shurgged!",
             link: "https://example.com/grapes-of-wrath",
         },
+        {
+            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
+            bookName: "Change!",
+            link: "https://example.com/grapes-of-wrath",
+        },
+        {
+            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
+            bookName: "change!",
+            link: "https://example.com/grapes-of-wrath",
+        },
+        {
+            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
+            bookName: "change!",
+            link: "https://example.com/grapes-of-wrath",
+        },
     ];
 
     window.addEventListener("DOMContentLoaded", (event) => {
