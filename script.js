@@ -102,18 +102,18 @@ $(function () {
             link: "https://example.com/grapes-of-wrath",
         },
         {
-            imageLink: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdubbing.fandom.com%2Fwiki%2FThe_Adventures_of_Tom_Sawyer&psig=AOvVaw1aHFHcqVETFRzIyBw33qWF&ust=1698429181873000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCD3fKjlIIDFQAAAAAdAAAAABAF",
+            imageLink: "https://m.media-amazon.com/images/I/41VWMa8-aeS._SY445_SX342_.jpg",
             bookName: "The Adventures Of Tom Sawyer!",
             link: "https://example.com/grapes-of-wrath",
         },
         {
-            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "DEF!",
+            imageLink: "https://m.media-amazon.com/images/I/61O+dMkKUOL._SY445_SX342_.jpg",
+            bookName: "Little Women!",
             link: "https://example.com/grapes-of-wrath",
         },
         {
-            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "GHI!",
+            imageLink: "https://i.insider.com/52d6f0e16bb3f7823a99f741?width=800&format=jpeg&auto=webp",
+            bookName: "A Tree Grows in Brooklyn!",
             link: "https://example.com/grapes-of-wrath",
         },
     ];
