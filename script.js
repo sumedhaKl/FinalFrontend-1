@@ -102,18 +102,18 @@ $(function () {
             link: "https://example.com/grapes-of-wrath",
         },
         {
-            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "Change!",
+            imageLink: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdubbing.fandom.com%2Fwiki%2FThe_Adventures_of_Tom_Sawyer&psig=AOvVaw1aHFHcqVETFRzIyBw33qWF&ust=1698429181873000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCD3fKjlIIDFQAAAAAdAAAAABAF",
+            bookName: "The Adventures Of Tom Sawyer!",
             link: "https://example.com/grapes-of-wrath",
         },
         {
             imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "change!",
+            bookName: "DEF!",
             link: "https://example.com/grapes-of-wrath",
         },
         {
             imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "change!",
+            bookName: "GHI!",
             link: "https://example.com/grapes-of-wrath",
         },
     ];
