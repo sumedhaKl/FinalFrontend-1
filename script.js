@@ -153,7 +153,8 @@ $(function () {
         // Add more book objects as needed
     ];
 
-// Listen for the "DOMContentLoaded" event to ensure the DOM is ready
-window.addEventListener("DOMContentLoaded", (event) => {
-    generateBooks(books);
-})
+    // Listen for the "DOMContentLoaded" event to ensure the DOM is ready
+    window.addEventListener("DOMContentLoaded", (event) => {
+        generateBooks(books);
+    });
+});
