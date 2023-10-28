@@ -126,6 +126,18 @@ header .banner {
     background-size: cover;
 }
 
+.book {
+    flex: 0 1 calc(50% - 10px); /* Set the width of each car to 50% minus the margin */
+    margin-bottom: 1%; /* Add space between rows */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    margin: 10px;
+}
+
 .block::after, .block::before {
     content: '';
     background: rgba(0,0,0,0.6);
