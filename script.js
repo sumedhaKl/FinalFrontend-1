@@ -74,47 +74,57 @@ $(function () {
         {
             imageLink: "https://sdi4.chrislands.com/sdi/978/00/60/8/9780060888695.jpg",
             bookName: "To Kill A Mockingbird!",
-            link: "https://example.com/great-gatsby",
+            link: "https://example.com/to-kill-a-mockingbird",
         },
         {
             imageLink: "https://i.etsystatic.com/37564271/r/il/a493cc/4399495403/il_fullxfull.4399495403_fa5v.jpg",
             bookName: "Farenheit 451!",
-            link: "https://example.com/dreams-from-my-father",
+            link: "https://example.com/fahrenheit-451",
         },
         {
             imageLink: "https://sterling-us.imgix.net/covers/9781435172319.jpg?auto=format&h=648",
             bookName: "Heart of Darkness!",
-            link: "https://example.com/grapes-of-wrath",
+            link: "https://example.com/heart-of-darkness",
         },
         {
             imageLink: "https://mpd-biblio-covers.imgix.net/9781509826643.jpg",
             bookName: "Moby-Dick!",
-            link: "https://example.com/great-gatsby",
+            link: "https://example.com/moby-dick",
         },
         {
             imageLink: "https://images.booksense.com/images/675/121/9780385121675.jpg",
             bookName: "The Shining!",
-            link: "https://example.com/dreams-from-my-father",
+            link: "https://example.com/the-shining",
         },
         {
             imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "Atlas Shurgged!",
-            link: "https://example.com/grapes-of-wrath",
+            bookName: "Atlas Shrugged!",
+            link: "https://example.com/atlas-shrugged",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/41VWMa8-aeS._SY445_SX342_.jpg",
             bookName: "The Adventures Of Tom Sawyer!",
-            link: "https://example.com/grapes-of-wrath",
+            link: "https://example.com/the-adventures-of-tom-sawyer",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/61O+dMkKUOL._SY445_SX342_.jpg",
             bookName: "Little Women!",
-            link: "https://example.com/grapes-of-wrath",
+            link: "https://example.com/little-women ",
         },
         {
             imageLink: "https://i.insider.com/52d6f0e16bb3f7823a99f741?width=800&format=jpeg&auto=webp",
             bookName: "A Tree Grows in Brooklyn!",
-            link: "https://example.com/grapes-of-wrath",
+            link: "https://example.com/a-tree-grows-in-brooklyn",
+        },
+        {
+            imageLink: "https://m.media-amazon.com/images/I/91ZuwqPXv6L._SY466_.jpg",
+            bookName: "East of Eden!",
+            link: "https://example.com/east-of-eden",
+        },
+        {
+            imageLink: "https://m.media-amazon.com/images/I/91ZuwqPXv6L._SY466_.jpg",
+            bookName: "The Sun Also Rises!",
+            link: "https://example.com/the-sun-also-rises",
         },
     ];
 
