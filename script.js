@@ -156,4 +156,4 @@ $(function () {
 // Listen for the "DOMContentLoaded" event to ensure the DOM is ready
 window.addEventListener("DOMContentLoaded", (event) => {
     generateBooks(books);
-});
+})
