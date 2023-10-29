@@ -121,11 +121,6 @@ $(function () {
             link: "http://127.0.0.1:5500/bookInfo.html",
         },
         {
-            imageLink: "https://target.scene7.com/is/image/Target/GUEST_adb085e6-d176-4499-bdb7-f6c2a3389392?wid=488&hei=488&fmt=pjpeg",
-            bookName: "Catch-22!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
-        },
-        {
             imageLink: "https://m.media-amazon.com/images/I/515o+3oBm0L._SY445_SX342_.jpg",
             bookName: "The Catcher in the Rye",
             link: "http://127.0.0.1:5500/bookInfo.html",
