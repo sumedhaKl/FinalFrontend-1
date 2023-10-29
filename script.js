@@ -66,7 +66,7 @@ $(function () {
             link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
-            imageLink: "https://i.etsystatic.com/37564271/r/il/a493cc/4399495403/il_fullxfull.4399495403_fa5v.jpg",
+            imageLink: "https://books.google.com/books/content?id=OYtkbGl2j0sC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1MSNBHQqn6MwhmA9ikg0eEko4Zxg&w=1280",
             bookName: "Farenheit 451!",
             link: "http://127.0.0.1:5500/bookInfo.html",
         },
@@ -76,7 +76,7 @@ $(function () {
             link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
-            imageLink: "https://m.media-amazon.com/images/I/61O7kZurz2L._AC_UF1000,1000_QL80_.jpg",
+            imageLink: "https://m.media-amazon.com/images/I/51MgclnwPvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
             bookName: "Moby-Dick!",
             link: "http://127.0.0.1:5500/Bookinfo.html",
         },
@@ -86,8 +86,8 @@ $(function () {
             link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
-            imageLink: "https://sdi4.chrislands.com/sdi/978/05/25/9/9780525948926.jpg",
-            bookName: "Atlas Shurgged!",
+            imageLink: "https://m.media-amazon.com/images/I/51iAfmaFDjL._SY445_SX342_.jpg",
+            bookName: "Atlas Shrugged!",
             link: "http://127.0.0.1:5500/bookInfo.html",
         },
         {
@@ -116,7 +116,7 @@ $(function () {
             link: "http://127.0.0.1:5500/bookInfo.html",
         },
         {
-            imageLink: "https://target.scene7.com/is/image/Target/GUEST_adb085e6-d176-4499-bdb7-f6c2a3389392?wid=488&hei=488&fmt=pjpeg",
+            imageLink: "https://upload.wikimedia.org/wikipedia/en/9/99/Catch22.jpg",
             bookName: "Catch-22!",
             link: "http://127.0.0.1:5500/bookInfo.html",
         },
